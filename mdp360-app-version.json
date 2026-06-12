@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "buildNumber": 1,
+  "apkUrl": "https://github.com/magazine-do-povo/mdp360-app-releases/releases/download/v1.1.0/mdp360-app-release.apk",
+  "forceUpdate": false,
+  "releaseNotes": "Versão inicial (ainda sem APK publicado — primeira release sai pelo workflow)."
+}
