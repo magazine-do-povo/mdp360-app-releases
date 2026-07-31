@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "buildNumber": 10400,
-  "apkUrl": "https://github.com/magazine-do-povo/mdp360-app-releases/releases/download/v1.4.0/mdp360-app-release.apk",
+  "version": "1.4.1",
+  "buildNumber": 10401,
+  "apkUrl": "https://github.com/magazine-do-povo/mdp360-app-releases/releases/download/v1.4.1/mdp360-app-release.apk",
   "forceUpdate": false,
-  "releaseNotes": "Atualização 1.4.0 disponível."
+  "releaseNotes": "Atualização 1.4.1 disponível."
 }
